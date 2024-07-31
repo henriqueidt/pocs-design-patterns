@@ -1,0 +1,3 @@
+- Intent is to separate abstraction (higher level) from implementation (lower level)
+- abstraction delegates actions to other objects
+- implementation actually takes action
